@@ -18,7 +18,7 @@ Para iniciar em modo de desenvolvimento:
 
 ## Aconselhado ter instalado NODEJS versão 14.x em diante.
 
-## Aquitetura de componentes:
+## Arquitetura de componentes:
 
 `
  |src -> 
