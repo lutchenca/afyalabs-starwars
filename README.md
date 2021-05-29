@@ -1,4 +1,10 @@
 # Gama Academy :)
+ 
+Projetinho feito durante o Módulo de Boas Práticas de Desenvolvimento na Afya Labs, parceria da Gama Academy com Afya Educacional. Nele eu aprendi: 
+- Como utilizar o webpack;
+- Como utilizar o NodeJS e fazer a integração entre front e back;
+- Como deployar meu repositório online utilizando o Vercell. 
+
 ## Template Node FullJS
 
 Para iniciar o projeto:
@@ -20,6 +26,6 @@ Para iniciar em modo de desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-Veja o projeto online [clique aqui](https://gama-academy-boas-praticas-starwars.vercel.app/)
+Veja o projeto online [clique aqui](https://nosso.site/)
 
 ## Professor Douglas Morais
